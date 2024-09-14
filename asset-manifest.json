@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/modal-life/static/css/main.09b0a03e.css",
+    "main.js": "/modal-life/static/js/main.3648290a.js",
+    "static/media/macbook.png": "/modal-life/static/media/macbook.f008aac052a9a36bfc1a.png",
+    "index.html": "/modal-life/index.html",
+    "main.09b0a03e.css.map": "/modal-life/static/css/main.09b0a03e.css.map",
+    "main.3648290a.js.map": "/modal-life/static/js/main.3648290a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b0a03e.css",
+    "static/js/main.3648290a.js"
+  ]
+}
