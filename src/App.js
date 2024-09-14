@@ -6,7 +6,7 @@ import Modal from './Components/Modal/Modal';
 function App() {
   return (
     <div className="App">
-      <Modal promotionEnd={Number(prompt('Введіть час до кінця акції: '))} />
+      <Modal promotionEnd={Number(prompt('Введіть час до кінця акції (unix time у мс): '))} />
     </div>
   );
 }
